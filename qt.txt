@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/17106315/failed-to-load-platform-plugin-xcb-while-launching-qt5-app-on-linux-without
+https://www.projectguideline.com/a-simple-procedure-for-installing-ns-3-on-ubuntu/
+https://cse.iitkgp.ac.in/~smisra/course/wasn/Installing%20ns3.pdf
+https://www.nsnam.org/wiki/Installation
+
+
+
+

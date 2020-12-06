@@ -1,0 +1,5 @@
+#installing qt creator
+sudo apt-get install qtcreator
+#installing qt libraries
+sudo apt-get install qtdeclarative5-dev
+
