@@ -2,4 +2,8 @@
 sudo apt-get install qtcreator
 #installing qt libraries
 sudo apt-get install qtdeclarative5-dev
-
+https://askubuntu.com/questions/80448/what-would-cause-the-gi-module-to-be-missing-from-python
+https://ubuntuforums.org/showthread.php?p=11624982
+https://pygobject.readthedocs.io/en/latest/getting_started.html
+http://network-simulator-ns-2.7690.n7.nabble.com/ns-3-on-Ubuntu-18-4-Python-Visualizer-not-enabled-goocanvas-modules-missing-td32176.html
+https://stackoverflow.com/questions/42988977/what-is-the-purpose-of-pip-install-user
